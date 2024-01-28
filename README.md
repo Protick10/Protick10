@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protick10" alt="protick10" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://protick10.github.io/Portfolio-Website-of-pro10/](https://protick10.github.io/Portfolio-Website-of-pro10/)
+- 👨‍💻 Take a look at my protfolio [https://protick10.github.io/Portfolio-Website-of-pro10/](https://protick10.github.io/Portfolio-Website-of-pro10/)
 
 - 📫 How to reach me **protick.saha10@gmail.com**
 
