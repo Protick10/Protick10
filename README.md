@@ -1,4 +1,4 @@
-https://github.com/Protick10/Protick10/blob/main/pro%20banner.png
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Protick10/Protick10/blob/main/pro%20banner.png))
 
 ### Hi there 👋
 
