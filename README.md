@@ -16,9 +16,13 @@
 <h1 align="center">Hi 👋, I'm Protick Saha</h1>
 <h3 align="center">A passionate software engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protick10" alt="protick10" /></a> </p>
 
-- 👨‍💻 Take a look at my protfolio [https://protick10.github.io/Portfolio-Website-of-pro10/](https://protick10.github.io/Portfolio-Website-of-pro10/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protick10" alt="protick10" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+- 👨‍💻 Take a look at my portfolio [https://protick10.github.io/Portfolio-Website-of-pro10/](https://protick10.github.io/Portfolio-Website-of-pro10/)
+
+
 
 - 📫 How to reach me **protick.saha10@gmail.com**
 
